@@ -8,7 +8,6 @@ var logger = log4js.getLogger();
 var backendApi = require("./backendApi")
 
 
-
 logger.level = 'debug';
 logger.debug("launching Example health endpoint");
 
