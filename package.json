@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "unit:test": "jest public/src/test/main.test.js"
+    "unit:test": "jest public/src/test/main.test.js" 
   },
   "repository": {
     "type": "git",
